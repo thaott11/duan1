@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\DuAn1\\DA1_BanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\hoadonct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\quanlybansachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\quanlybansachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\bll\\service\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\bll\\service\\nhanvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\models\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\dal\\reposistoris\\nhanvienreposistoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\dal\\reposistoris\\nhanvienreposistoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|D:\\FPT\\DuAn1\\DA1_BanSach\\wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D39E89-28FF-4067-9A02-E47C40E52E5E}|WF\\WF.csproj|solutionrelative:wf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HoaDonCt.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\HoaDonCt.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\HoaDonCt.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\HoaDonCt.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\HoaDonCt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:54:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\HoaDon.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:54:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\TheLoai.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\TheLoai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:54:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyBanSachContext.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\QuanLyBanSachContext.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\QuanLyBanSachContext.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\QuanLyBanSachContext.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\QuanLyBanSachContext.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:53:57.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\NhanVien.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwDIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:32:33.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\Sach.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Models\\Sach.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Models\\Sach.cs",
+              "RelativeToolTip": "WF\\DAL\\Models\\Sach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:31:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhanVienReposistoris.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Reposistoris\\NhanVienReposistoris.cs",
+              "RelativeDocumentMoniker": "WF\\DAL\\Reposistoris\\NhanVienReposistoris.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\DAL\\Reposistoris\\NhanVienReposistoris.cs",
+              "RelativeToolTip": "WF\\DAL\\Reposistoris\\NhanVienReposistoris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:24:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVienService.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\BLL\\Service\\NhanVienService.cs",
+              "RelativeDocumentMoniker": "WF\\BLL\\Service\\NhanVienService.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\BLL\\Service\\NhanVienService.cs",
+              "RelativeToolTip": "WF\\BLL\\Service\\NhanVienService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:15:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\Program.cs",
+              "RelativeDocumentMoniker": "WF\\Program.cs",
+              "ToolTip": "D:\\FPT\\DuAn1\\DA1_BanSach\\WF\\Program.cs",
+              "RelativeToolTip": "WF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:38:52.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

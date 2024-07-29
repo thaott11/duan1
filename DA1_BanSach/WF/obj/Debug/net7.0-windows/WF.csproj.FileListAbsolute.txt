@@ -1,0 +1,672 @@
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.exe
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.sourcelink.json
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHang.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+C:\Users\Admin HP\Downloads\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.exe
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHang.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.sourcelink.json
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.Up2Date
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+E:\Dowloads\DA1_QuanLyBanSach (2)\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.exe
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHang.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.sourcelink.json
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+C:\Users\Admin HP\Desktop\DA1_QuanLyBanSach\DA1_QuanLyBanSach\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2)\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_QuanLyBanSach (2) (1)\WF\obj\Debug\net7.0-windows\WF.GUI.View.formtheloai.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.csproj.CopyComplete
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\EPPlus.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Irony.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\XLParser.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach (1)\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Irony.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\XLParser.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\FPT polytechnic\Dự án 1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.Up2Date
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.exe
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Irony.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\XLParser.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.Up2Date
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\TaiLieu_FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.exe
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.deps.json
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.runtimeconfig.json
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\WF.pdb
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ClosedXML.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Humanizer.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Irony.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\QRCoder.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Management.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\XLParser.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\zxing.presentation.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.AssemblyReference.cache
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.BanHang.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.DonHang.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___NhanVien.KhachHangg.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.KhuyenMai.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.Login.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.Nhanvien.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.SanPham.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GUI.View.ThemKhachHang.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Chức_Năng.Form_Chức_Năng___ADMIN.ThongKe.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___ADMIN.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Form_Login_TrangChu.TrangChu___NhanVien.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.Properties.Resources.resources
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.GenerateResource.cache
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfoInputs.cache
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.AssemblyInfo.cs
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.CoreCompileInputs.cache
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.csproj.Up2Date
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\refint\WF.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.pdb
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\WF.genruntimeconfig.cache
+D:\FPT\DuAn1\DA1_BanSach\WF\obj\Debug\net7.0-windows\ref\WF.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\nunit.framework.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\nunit.framework.legacy.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\NUnit3.TestAdapter.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\NUnit3.TestAdapter.pdb
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\nunit.engine.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\nunit.engine.api.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\nunit.engine.core.dll
+D:\FPT\DuAn1\DA1_BanSach\WF\bin\Debug\net7.0-windows\testcentric.engine.metadata.dll
